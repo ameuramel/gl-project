@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="content">
         <h1>
-          {person.name}
+          {person.age}
         </h1>
       </div>
 
